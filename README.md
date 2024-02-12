@@ -1,10 +1,6 @@
 <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
-
-
 <p><em>A Software Developer 😊</br>
 </em></p>
-
-
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
